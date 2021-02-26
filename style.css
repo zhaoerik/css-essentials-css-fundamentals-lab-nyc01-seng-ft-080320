@@ -4,12 +4,12 @@ body {
   margin: 0;
 }
 
-header {
-  align-content: center;
+h1 {
+  text-align: center;
 }
 
 nav {
-  align-content: center;
+  text-align: center;
 }
 
 a {
@@ -20,5 +20,5 @@ a {
 
 figcaption {
   font-size: 6;
-  align-content: center;
+  text-align: center;
 }
