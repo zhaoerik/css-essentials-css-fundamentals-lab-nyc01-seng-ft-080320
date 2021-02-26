@@ -13,7 +13,7 @@ nav {
 }
 
 img {
-  align-content: center;
+  display: block;
 }
 
 a {
